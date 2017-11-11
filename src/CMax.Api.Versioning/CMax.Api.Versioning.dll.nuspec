@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>VersionedRouteAttribute</id>
+    <version>1.0.0</version>
+    <authors>Carlos Max</authors>
+    <owners>Carlos Max</owners>
+    <projectUrl>https://github.com/carlosmax/aspnet-api-versioning</projectUrl>
+    <licenseUrl>https://github.com/carlosmax/aspnet-api-versioning/blob/master/LICENSE</licenseUrl>
+    <repositoryUrl>https://github.com/carlosmax/aspnet-api-versioning</repositoryUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Route attribute with versioning support for MVC controllers and actions.</description>    
+  </metadata>
+</package>
