@@ -39,7 +39,7 @@ public class Values2Controller : Controller
 
 To define versioned routes in the same controller, set the attribute in the actions, passing the version number:
 
-```
+```cs
 [HttpGet]
 [VersionedRoute("api/same", 1)]
 public IEnumerable<string> Get()
